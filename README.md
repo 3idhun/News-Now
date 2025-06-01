@@ -1,4 +1,4 @@
-# 📰 React News App
+# 📰 React News Website
 
 A simple and elegant React-based news aggregator using NewsAPI and Bootstrap 5. Fetches the latest top headlines from different categories like Technology, Health, Business, Sports, and Entertainment.
 
