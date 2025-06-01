@@ -1,12 +1,40 @@
-# React + Vite
+# 📰 React News App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and elegant React-based news aggregator using NewsAPI and Bootstrap 5. Fetches the latest top headlines from different categories like Technology, Health, Business, Sports, and Entertainment.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- Fetches live news from [NewsAPI](https://newsapi.org/)
+- Category-based filtering
+- Responsive layout using Bootstrap 5
+- Modern UI with dark-themed cards
+- Functional search bar (static as placeholder)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Tech Stack
+
+- React (Vite)
+- Bootstrap 5
+- NewsAPI
+
+---
+
+## 📦 Installation
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/react-news-app.git
+
+# Navigate into the project folder
+cd react-news-app
+
+# Install dependencies
+npm install
+
+# Create a .env file and add your API key
+echo "VITE_NEWS_API_KEY=your_api_key_here" > .env
+
+# Start the development server
+npm run dev
