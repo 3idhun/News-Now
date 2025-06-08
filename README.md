@@ -9,7 +9,7 @@ A simple and elegant React-based news aggregator using NewsAPI and Bootstrap 5. 
 - Category-based filtering
 - Responsive layout using Bootstrap 5
 - Modern UI with dark-themed cards
-- Functional search bar (static as placeholder)
+- Functional search bar (static as placeholder)  
 
 ---
 
