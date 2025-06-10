@@ -15,7 +15,7 @@ A simple and elegant React-based news aggregator using NewsAPI and Bootstrap 5. 
 
 ## 🛠 Tech Stack
 
-- React (Vite)
+- React (Vite)        
 - Bootstrap 5
 - NewsAPI
 
